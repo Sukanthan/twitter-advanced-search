@@ -96,7 +96,7 @@ App specific | `source:client_name` | Sent from a specified client e.g. source:t
 &nbsp; | | | 
 **Communities** | `Search:`| Look for Communities name | [🔗](https://twitter.com/search?q=carp%20card_name%3Apromo_image_convo&src=typed_query&f=live)
 &nbsp; | | | 
-Spaces |`Search:`| Look for Spaces name |  [🔗](https://twitter.com/search?q=carp%20card_name%3Apromo_image_convo&src=typed_query&f=live)
+**Spaces** |`Search:`| Look for Spaces name |  [🔗](https://twitter.com/search?q=carp%20card_name%3Apromo_image_convo&src=typed_query&f=live)
 
 ## Matching:
 
