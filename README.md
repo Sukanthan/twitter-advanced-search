@@ -94,10 +94,10 @@ App specific | `source:client_name` | Sent from a specified client e.g. source:t
 &nbsp; | `card_name:promo_image_convo` <br> `card_name:promo_video_convo` | Finds [Conversational Ads](https://business.twitter.com/en/help/campaign-setup/conversational-ad-formats.html) cards. | [🔗](https://twitter.com/search?q=carp%20card_name%3Apromo_image_convo&src=typed_query&f=live)
 &nbsp; | `card_name:3260518932:moment` | Finds Moments cards. `3260518932` is the user ID of `@TwitterMoments`, but the search finds moments for everyone, not that specific user. | [🔗](https://twitter.com/search?q=card_name%3A3260518932%3Amoment&src=typed_query&f=live)
 
-Communities | | Look for Communities name | | 
+Communities | | Look for Communities name |
 
 
-Spaces | | Look for Communities name | | 
+Spaces | | Look for Communities name | 
 
 ## Matching:
 
